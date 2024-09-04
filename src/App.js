@@ -38,7 +38,6 @@ const App = () => {
   }, []);
 
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Router>
         <ScrollToTop />
         <div className="App" id="top">
@@ -76,7 +75,6 @@ const App = () => {
           <Footer />
         </div>
       </Router>
-    </BrowserRouter>
   );
 };
 
