@@ -1,6 +1,6 @@
 // src/App.js
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import About from './pages/About';
 import Projects from './pages/Projects';
@@ -44,7 +44,7 @@ const App = () => {
           <Header />
           <div className="main-content">
             <Routes>
-              <Route path="/" element={
+              <Route exact path="/" element={
                 <>
                   <About data={landingPageData.About} />
                   <Projects data={landingPageData.Projects} />
