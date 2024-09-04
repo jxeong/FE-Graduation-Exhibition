@@ -1,0 +1,26 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Pretendard', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.section {
+  padding: 2rem;
+  border-bottom: 1px solid #ccc;
+  min-height: calc(100vh - 80px); /* 네비게이션 바 높이만큼 빼서 화면 전체로 설정 */
+}
+
+.main-content {
+  margin-top: 80px; /* 네비게이션 바 높이만큼 여백 추가 */
+}
