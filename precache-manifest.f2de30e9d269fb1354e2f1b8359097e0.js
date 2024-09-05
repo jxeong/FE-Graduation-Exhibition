@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2cf466bb4aa167ccb6747f52466b2853",
+    "revision": "cf02546fac233a08e95e1d01b097b460",
     "url": "/FE-Graduation-Exhibition/index.html"
   },
   {
-    "revision": "8b85b3aabe10e3e5ebeb",
+    "revision": "72979dc1a282708a1975",
     "url": "/FE-Graduation-Exhibition/static/css/main.5bea4e10.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FE-Graduation-Exhibition/static/js/3.0ef0dcb2.chunk.js"
   },
   {
-    "revision": "8b85b3aabe10e3e5ebeb",
-    "url": "/FE-Graduation-Exhibition/static/js/main.aea8635b.chunk.js"
+    "revision": "72979dc1a282708a1975",
+    "url": "/FE-Graduation-Exhibition/static/js/main.74b4fd0f.chunk.js"
   },
   {
     "revision": "db59e2eb513100d3fb5e",
