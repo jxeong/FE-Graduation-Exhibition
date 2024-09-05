@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf02546fac233a08e95e1d01b097b460",
+    "revision": "cff2e8ecdf50c81360301d5811be3a29",
     "url": "/FE-Graduation-Exhibition/index.html"
   },
   {
