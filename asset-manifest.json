@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FE-Graduation-Exhibition/static/css/main.6f00fdfe.chunk.css",
+    "main.css": "/FE-Graduation-Exhibition/static/css/main.1128aea5.chunk.css",
     "main.js": "/FE-Graduation-Exhibition/static/js/main.c83f82ad.chunk.js",
     "main.js.map": "/FE-Graduation-Exhibition/static/js/main.c83f82ad.chunk.js.map",
     "runtime-main.js": "/FE-Graduation-Exhibition/static/js/runtime-main.6266d352.js",
@@ -10,9 +10,9 @@
     "static/js/3.fbdb18ed.chunk.js": "/FE-Graduation-Exhibition/static/js/3.fbdb18ed.chunk.js",
     "static/js/3.fbdb18ed.chunk.js.map": "/FE-Graduation-Exhibition/static/js/3.fbdb18ed.chunk.js.map",
     "index.html": "/FE-Graduation-Exhibition/index.html",
-    "precache-manifest.3cedb2b8942f02ebd550f03606b13629.js": "/FE-Graduation-Exhibition/precache-manifest.3cedb2b8942f02ebd550f03606b13629.js",
+    "precache-manifest.cb23f02680d2ba66c84f7517f58e5fb8.js": "/FE-Graduation-Exhibition/precache-manifest.cb23f02680d2ba66c84f7517f58e5fb8.js",
     "service-worker.js": "/FE-Graduation-Exhibition/service-worker.js",
-    "static/css/main.6f00fdfe.chunk.css.map": "/FE-Graduation-Exhibition/static/css/main.6f00fdfe.chunk.css.map",
+    "static/css/main.1128aea5.chunk.css.map": "/FE-Graduation-Exhibition/static/css/main.1128aea5.chunk.css.map",
     "static/js/2.db8b92ae.chunk.js.LICENSE.txt": "/FE-Graduation-Exhibition/static/js/2.db8b92ae.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/FE-Graduation-Exhibition/static/media/logo.315321fe.png",
     "static/media/mainPoster.png": "/FE-Graduation-Exhibition/static/media/mainPoster.992a74a6.png",
@@ -93,7 +93,7 @@
   "entrypoints": [
     "static/js/runtime-main.6266d352.js",
     "static/js/2.db8b92ae.chunk.js",
-    "static/css/main.6f00fdfe.chunk.css",
+    "static/css/main.1128aea5.chunk.css",
     "static/js/main.c83f82ad.chunk.js"
   ]
 }
