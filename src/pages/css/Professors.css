@@ -71,9 +71,12 @@
 
 /* 각 사진 스타일 */
 .photo-gallery_pro .photo_pro {
-  flex: 1 1 calc(20% - 10px);
+  /* flex: 1 1 calc(20% - 10px); */
+  flex: none; /* flex 속성을 제거하여 크기가 변하지 않도록 설정 */
+  width: 300px; /* 원하는 고정 너비 설정 */
+  height: 300px; /* 원하는 고정 높이 설정 */
+  object-fit: cover; /* 이미지를 비율에 맞춰 잘라서 표시 */
   max-width: calc(20% - 10px);
-  height: auto;
   object-fit: cover;
   margin: 5px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;

@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../assets/photo_pics4.PNG"; // 이미지 경로 수정
+import image from "../../assets/prof_eum.jpeg"; // 이미지 경로 수정
 import "../css/ProfessorComponent.css"; // CSS 파일 임포트
 
 const Professor4Component = () => {
