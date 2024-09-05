@@ -9,8 +9,9 @@ import Professor1Component from './pages/professors/Professor1Component';
 import Professor2Component from './pages/professors/Professor2Component';
 import Professor3Component from './pages/professors/Professor3Component';
 import Professor4Component from './pages/professors/Professor4Component';
-import Guest from './pages/Guest';
-import GuestPage from './pages/guest2';
+import Professor5Component from "./pages/professors/Professor5Component";
+//import Guest from './pages/Guest';
+//import GuestPage from './pages/guest2';
 import Pics from './pages/Pics';
 import Designers from './pages/Designers';
 import Footer from './components/Footer';
@@ -49,7 +50,7 @@ const App = () => {
                   <About data={landingPageData.About} />
                   <Projects data={landingPageData.Projects} />
                   <Professors data={landingPageData.Professors} />
-                  <Guest data={landingPageData.Guest} />
+                  {/*<Guest data={landingPageData.Guest} />*/}
                   <Pics data={landingPageData.Pics} />
                   <Designers data={landingPageData.Designers} />
                 </>
@@ -59,7 +60,8 @@ const App = () => {
               <Route path="/professor2" element={<Professor2Component />} />
               <Route path="/professor3" element={<Professor3Component />} />
               <Route path="/professor4" element={<Professor4Component />} />
-              <Route path="/guest2" element={<GuestPage />} />
+              <Route path="/professor5" element={<Professor5Component />} />
+              {/* <Route path="/guest2" element={<GuestPage />} /> */}
               <Route path="/project1" element={<Project1Component />} />
               <Route path="/project2" element={<Project2Component />} />
               <Route path="/project3" element={<Project3Component />} />
