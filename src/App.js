@@ -45,7 +45,7 @@ const App = () => {
           <Header />
           <div className="main-content">
             <Routes>
-              <Route exact path="/FE-Graduation-Exhibition/" element={
+              <Route exact path="/" element={
                 <>
                   <About data={landingPageData.About} />
                   <Projects data={landingPageData.Projects} />
