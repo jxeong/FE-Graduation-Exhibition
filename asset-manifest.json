@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/FE-Graduation-Exhibition/static/css/main.5bea4e10.chunk.css",
-    "main.js": "/FE-Graduation-Exhibition/static/js/main.74b4fd0f.chunk.js",
-    "main.js.map": "/FE-Graduation-Exhibition/static/js/main.74b4fd0f.chunk.js.map",
+    "main.js": "/FE-Graduation-Exhibition/static/js/main.e511f8d2.chunk.js",
+    "main.js.map": "/FE-Graduation-Exhibition/static/js/main.e511f8d2.chunk.js.map",
     "runtime-main.js": "/FE-Graduation-Exhibition/static/js/runtime-main.3ebde9cc.js",
     "runtime-main.js.map": "/FE-Graduation-Exhibition/static/js/runtime-main.3ebde9cc.js.map",
-    "static/js/2.6db9ccd7.chunk.js": "/FE-Graduation-Exhibition/static/js/2.6db9ccd7.chunk.js",
-    "static/js/2.6db9ccd7.chunk.js.map": "/FE-Graduation-Exhibition/static/js/2.6db9ccd7.chunk.js.map",
+    "static/js/2.602436bc.chunk.js": "/FE-Graduation-Exhibition/static/js/2.602436bc.chunk.js",
+    "static/js/2.602436bc.chunk.js.map": "/FE-Graduation-Exhibition/static/js/2.602436bc.chunk.js.map",
     "static/js/3.0ef0dcb2.chunk.js": "/FE-Graduation-Exhibition/static/js/3.0ef0dcb2.chunk.js",
     "static/js/3.0ef0dcb2.chunk.js.map": "/FE-Graduation-Exhibition/static/js/3.0ef0dcb2.chunk.js.map",
     "index.html": "/FE-Graduation-Exhibition/index.html",
-    "precache-manifest.f2de30e9d269fb1354e2f1b8359097e0.js": "/FE-Graduation-Exhibition/precache-manifest.f2de30e9d269fb1354e2f1b8359097e0.js",
+    "precache-manifest.62237b73ad4312506ffcac142d55dd2f.js": "/FE-Graduation-Exhibition/precache-manifest.62237b73ad4312506ffcac142d55dd2f.js",
     "service-worker.js": "/FE-Graduation-Exhibition/service-worker.js",
     "static/css/main.5bea4e10.chunk.css.map": "/FE-Graduation-Exhibition/static/css/main.5bea4e10.chunk.css.map",
-    "static/js/2.6db9ccd7.chunk.js.LICENSE.txt": "/FE-Graduation-Exhibition/static/js/2.6db9ccd7.chunk.js.LICENSE.txt",
+    "static/js/2.602436bc.chunk.js.LICENSE.txt": "/FE-Graduation-Exhibition/static/js/2.602436bc.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/FE-Graduation-Exhibition/static/media/logo.315321fe.png",
     "static/media/mainPoster.png": "/FE-Graduation-Exhibition/static/media/mainPoster.992a74a6.png",
     "static/media/photo_pics1.PNG": "/FE-Graduation-Exhibition/static/media/photo_pics1.0d5bbb3d.PNG",
@@ -96,8 +96,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3ebde9cc.js",
-    "static/js/2.6db9ccd7.chunk.js",
+    "static/js/2.602436bc.chunk.js",
     "static/css/main.5bea4e10.chunk.css",
-    "static/js/main.74b4fd0f.chunk.js"
+    "static/js/main.e511f8d2.chunk.js"
   ]
 }
